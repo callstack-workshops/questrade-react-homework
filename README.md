@@ -31,7 +31,7 @@ With that out of the way, let’s start!
 The project is a monorepo with two applications - backend and web. It is hard to set up a monorepo with nested package.json files and it usually requires installing additional tooling and a lot of scripts (and it’s out of scope of this homework exercise) - that’s why we won’t be doing that and we will be splitting our repo without nesting package.json and all the other configuration files.
 
 <details>
-  <summary>Step 1. Create a free Upstash account to store data in Redis database</summary>
+  <summary><b>Step 1. Create a free Upstash account to store data in Redis database</b></summary><br>
 
 In order to store data about lotteries you need a database. For this homework, you'll use Redis provided by Upstash. It has a generous free plan which should be just enough to cover everything you need. Go to [https://upstash.com](https://upstash.com/) and create a free account. Create a new Redis database - you can use any name you'd like. You'll get redirected to a page where all required secrets are shown.
 
