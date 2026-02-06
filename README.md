@@ -1,4 +1,4 @@
-# Module 3 Homework
+# Intro to React - Homework
 
 While having lunch, your CTO and your Tech Leader met and discussed about a technology that most big companies are using which improves code maintenance and reusability by using components. They ended up agreeing that React could indeed help BigCorp deliver the best lottery website.
 
