@@ -43,6 +43,8 @@ In order to store data about lotteries you need a database. For this homework, y
 
   which you can copy from Upstash directly after creating a free database.
 
+  Now, in order to run the server just run `npm run dev` inside the `backend` directory.
+
 </details>
 
 <details>
